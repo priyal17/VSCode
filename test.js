@@ -4,7 +4,7 @@ const arr = [{ "no": "100", "count": "1" }, { "no": "200", "count": "2" }, { "no
 const print = function (arr) {
 
   console.log(arr[1].no);
-
+  ///sdfsdf
   let result = [];
   console.log(result.filter(x => x.no === "400"));
 }
